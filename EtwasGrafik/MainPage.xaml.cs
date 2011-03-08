@@ -17,6 +17,12 @@ namespace EtwasGrafik
         public MainPage()
         {
             InitializeComponent();
+            
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            spinStoryboard.Begin();
         }
     }
 }
