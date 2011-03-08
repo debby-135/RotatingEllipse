@@ -10,3 +10,15 @@ c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGr
 c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\EtwasGrafik.dll
 c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\EtwasGrafik.pdb
 c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\XapCacheFile.xml
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\Bin\Debug\EtwasGrafik.dll
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\Bin\Debug\EtwasGrafik.pdb
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\Bin\Debug\AppManifest.xaml
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\Bin\Debug\EtwasGrafik.xap
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\Bin\Debug\EtwasGrafikTestPage.html
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\App.g.i.cs
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\MainPage.g.i.cs
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\EtwasGrafik.g.resources
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\EtwasGrafik.dll
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\EtwasGrafik.pdb
+C:\Users\deborah.haist\Documents\Visual Studio 2010\Projects\RotatingEllipse\EtwasGrafik\obj\Debug\XapCacheFile.xml
