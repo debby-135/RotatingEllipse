@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtwasGrafik", "EtwasGrafik\EtwasGrafik.csproj", "{AB18D388-E4F0-45AC-B418-16B0CD2E1E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtwasGrafik.Web", "EtwasGrafik.Web\EtwasGrafik.Web.csproj", "{D0E0FCF6-D66D-4D8C-A442-00D89AE068BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB18D388-E4F0-45AC-B418-16B0CD2E1E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB18D388-E4F0-45AC-B418-16B0CD2E1E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB18D388-E4F0-45AC-B418-16B0CD2E1E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB18D388-E4F0-45AC-B418-16B0CD2E1E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E0FCF6-D66D-4D8C-A442-00D89AE068BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E0FCF6-D66D-4D8C-A442-00D89AE068BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E0FCF6-D66D-4D8C-A442-00D89AE068BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E0FCF6-D66D-4D8C-A442-00D89AE068BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

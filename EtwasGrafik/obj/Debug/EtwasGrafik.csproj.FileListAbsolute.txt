@@ -1,0 +1,12 @@
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\Bin\Debug\EtwasGrafik.dll
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\Bin\Debug\EtwasGrafik.pdb
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\Bin\Debug\AppManifest.xaml
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\Bin\Debug\EtwasGrafik.xap
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\Bin\Debug\EtwasGrafikTestPage.html
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\ResolveAssemblyReference.cache
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\App.g.i.cs
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\MainPage.g.i.cs
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\EtwasGrafik.g.resources
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\EtwasGrafik.dll
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\EtwasGrafik.pdb
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik\obj\Debug\XapCacheFile.xml

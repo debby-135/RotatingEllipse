@@ -1,0 +1,5 @@
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik.Web\bin\EtwasGrafik.Web.dll
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik.Web\bin\EtwasGrafik.Web.pdb
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik.Web\obj\Debug\EtwasGrafik.Web.dll
+c:\users\deborah.haist\documents\visual studio 2010\Projects\EtwasGrafik\EtwasGrafik.Web\obj\Debug\EtwasGrafik.Web.pdb
