@@ -7,8 +7,16 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="AB18D388-E4F0-45AC-B418-16B0CD2E1E59/f:MainPage.xaml.cs" caret="605" fromTop="23" />
+      <File id="AB18D388-E4F0-45AC-B418-16B0CD2E1E59/f:MainPage.xaml" caret="1" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AB18D388-E4F0-45AC-B418-16B0CD2E1E59/f:MainPage.xaml" caret="614" fromTop="7" />
+      <File id="AB18D388-E4F0-45AC-B418-16B0CD2E1E59/f:MainPage.xaml.cs" caret="474" fromTop="18" />
+      <File id="AB18D388-E4F0-45AC-B418-16B0CD2E1E59/f:MainPage.xaml.cs" caret="605" fromTop="23" />
+      <File id="AB18D388-E4F0-45AC-B418-16B0CD2E1E59/f:MainPage.xaml" caret="1132" fromTop="9" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +28,12 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="spinStoryboard" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.Storyboard">
+      <Item value="Begin`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

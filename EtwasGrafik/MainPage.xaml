@@ -8,17 +8,21 @@
 
     <UserControl.Resources>
         <Storyboard x:Name="spinStoryboard">
-            <DoubleAnimation Storyboard.TargetName="ellipse" Storyboard.TargetProperty="RotationY" From="0" To="360" Duration="0:0:3" BeginTime="0:0:0"></DoubleAnimation>
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="EllipseProjection" Storyboard.TargetProperty="RotationY">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <SplineDoubleKeyFrame KeyTime="00:00:01" Value="90"/>
+                <SplineDoubleKeyFrame KeyTime="00:00:02" Value="180"/>
+            </DoubleAnimationUsingKeyFrames>
         </Storyboard>
     </UserControl.Resources>
     
-    <Grid x:Name="LayoutRoot" Background="White">
+    <Canvas x:Name="LayoutRoot" Background="White">
         <Ellipse  Fill="AntiqueWhite" Height="79" HorizontalAlignment="Left" Margin="67,93,0,0" Name="ellipse" Stroke="Black" StrokeThickness="1" VerticalAlignment="Top" Width="236">
             <Ellipse.Projection>
-                <PlaneProjection RotationY="0"></PlaneProjection>
+                <PlaneProjection x:Name="EllipseProjection" RotationX="0" RotationY="0" RotationZ="0"></PlaneProjection>
             </Ellipse.Projection>
         </Ellipse>
-        <TextBox Text="Please Click the Button" Margin="12,12,272,263"></TextBox>
+        <TextBox Text="Please Click the Button" Margin="12,12,245,263"></TextBox>
         <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="140,235,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click"></Button>
-    </Grid>
+    </Canvas>
 </UserControl>
